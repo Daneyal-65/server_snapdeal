@@ -25,8 +25,7 @@ npm run dev
 - User Authentication (JWT-based login/signup)
 - Product Listings with Filtering and Sorting
 - Cart and Order Management
-- Secure Payment Processing with Stripe
-- User Dashboard for Order History and Profile Management
+- Order and Profile Management
 
 
 ## API Endpoints
